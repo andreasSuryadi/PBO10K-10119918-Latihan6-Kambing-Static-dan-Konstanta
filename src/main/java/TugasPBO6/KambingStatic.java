@@ -7,7 +7,13 @@ package TugasPBO6;
 
 /**
  *
- * @author andreas
+ * @author
+ * NAMA     : Andreas Suryadi
+ * KELAS    : PBO10K
+ * NIM      : 10119918
+ * Deskripsi Program : Program ini berisi program untuk mangakses variabel dari
+ * class Mamalia
+ * 
  */
 public class KambingStatic {
     
