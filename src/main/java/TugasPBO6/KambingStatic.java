@@ -11,7 +11,7 @@ package TugasPBO6;
  * NAMA     : Andreas Suryadi
  * KELAS    : PBO10K
  * NIM      : 10119918
- * Deskripsi Program : Program ini berisi program untuk mangakses variabel dari
+ * Deskripsi Program : Program ini berisi program untuk mengakses variabel dari
  * class Mamalia
  * 
  */
